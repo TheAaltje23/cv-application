@@ -1,2 +1,1 @@
-# cv-application
-Very simple cv application where you can list personalia, experience, and education
+https://odin-cv-application-avn.netlify.app/
