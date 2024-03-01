@@ -1,1 +1,1 @@
-https://odin-cv-application-avn.netlify.app/
+https://cv-application-avn.netlify.app
